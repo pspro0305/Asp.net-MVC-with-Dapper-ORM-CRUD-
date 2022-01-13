@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Asp.net MVC with Dapper ORM", "Asp.net MVC with Dapper ORM\Asp.net MVC with Dapper ORM.csproj", "{FE8BA502-1DB2-4B7C-B2C1-15660928E671}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE8BA502-1DB2-4B7C-B2C1-15660928E671}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE8BA502-1DB2-4B7C-B2C1-15660928E671}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE8BA502-1DB2-4B7C-B2C1-15660928E671}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE8BA502-1DB2-4B7C-B2C1-15660928E671}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {733B76FB-16B5-4AF6-9668-8C06C9B1AD19}
+	EndGlobalSection
+EndGlobal
